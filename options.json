@@ -1,6 +1,7 @@
 [{
 	"value": "选项1",
-	"label": "黄金糕"
+	"label": "黄金糕",
+         checked: true
 }, {
 	"value": "选项2",
 	"label": "双皮奶"
